@@ -1,20 +1,30 @@
-# Expo Router Example
+# Atividade: Desenvolvimento de App de Contatos
 
-Use [`expo-router`](https://docs.expo.dev/router/introduction/) to build native navigation using files in the `app/` directory.
+## Objetivo
 
-## 🚀 How to use
+Criar um aplicativo de contatos telefônicos usando React Native, Expo e React Native Paper, aplicando os conceitos que você aprendeu na aula do TaskMaster.
 
-```sh
-npx create-expo-app -e with-router
-```
+## Estrutura do projeto:
 
-## Deploy
+    - app/_layout.js - Configure a navegação e o tema do Paper
+    - app/index.js - Lista de contatos e modal para adicionar/editar
+    - app/settings.js - Tela simples de configurações
+    - components/ContactItem.js - Componente para exibir cada contato
 
-Deploy on all platforms with Expo Application Services (EAS).
+## Funcionalidades obrigatórias:
 
-- Deploy the website: `npx eas-cli deploy` — [Learn more](https://docs.expo.dev/eas/hosting/get-started/)
-- Deploy on iOS and Android using: `npx eas-cli build` — [Learn more](https://expo.dev/eas)
+    - Adicionar contatos com nome, telefone e categoria (trabalho/pessoal/família)
+    - Visualizar todos os contatos em uma lista
+    - Editar contatos existentes
+    - Excluir contatos com confirmação
 
-## 📝 Notes
+## Tecnologias Utilizadas
 
-- [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
+- React Native
+- Expo
+- React Native Paper
+- Expo Router
+
+## Screenshots
+
+![Tela Principal](assets/)
