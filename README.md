@@ -27,10 +27,16 @@ Criar um aplicativo de contatos telefônicos usando React Native, Expo e React N
 
 ## Screenshots
 
-![Tela Principal](assets/screenshots/)
-![Adicionar Contato](assets/screenshots/)
-![Editar Contato](assets/screenshots/)
-![Configurações](assets/screenshots/)
+- **Tela Principal**
+![Tela Principal](assets/screenshots/tela-principal.png)
+- **Adicionar Contato**
+![Adicionar Contato](assets/screenshots/adicionar-contato.png)
+- **Lista de Contatos**
+![Lista de Contatos](assets/screenshots/lista-contatos.png)
+- **Editar Contato**
+![Editar Contato](assets/screenshots/editar-contato.png)
+- **Tela de Configurações**
+![Configurações](assets/screenshots/configuracoes.png)
 
 ## Instruções
 1. Clone o repositório
